@@ -33,6 +33,9 @@ PRODUCT_COPY_FILES += \
 # Dolby
 TARGET_USES_DOLBY := true
 
+PRODUCT_PACKAGES += \
+    DSPVolumeSynchronizer
+
 # Fingerprint
 PRODUCT_PACKAGES += \
     libudfpshandler
