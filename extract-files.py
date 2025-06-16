@@ -33,6 +33,8 @@ blob_fixups: blob_fixups_user_type = {
         .regex_replace(' +seclabel u:r:batterysecret:s0\n', ''),
     'vendor/etc/init/init.mi_thermald.rc': blob_fixup()
         .regex_replace(' +seclabel u:r:mi_thermald:s0\n', ''),
+    ('vendor/lib/hw/audio.primary.sm6150.so', 'vendor/lib/libaudioroute_ext.so'): blob_fixup()
+        .replace_needed('libaudioroute.so', 'libaudioroute-v34.so'),
     'vendor/lib64/hw/camera.qcom.so': blob_fixup()
         .replace_needed('libMegviiFacepp-0.5.2.so', 'libFaceDetectpp-0.5.2.so')
         .replace_needed('libmegface.so', 'libfacedet.so'),
