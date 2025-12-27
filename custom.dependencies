@@ -1,11 +1,19 @@
 [
   {
+    "repository": "aosp-playground/android_device_oneplus_dolby",
+    "target_path": "device/oneplus/dolby"
+  },
+  {
     "repository": "PixelOS-Devices/android_device_xiaomi_miuicamera-toco",
     "target_path": "device/xiaomi/miuicamera-toco"
   },
   {
     "repository": "PixelOS-Devices/android_device_xiaomi_sm6150-common",
     "target_path": "device/xiaomi/sm6150-common"
+  },
+  {
+    "repository": "aosp-playground/proprietary_vendor_oneplus_dolby",
+    "target_path": "vendor/oneplus/dolby"
   },
   {
     "remote": "gitlab",
