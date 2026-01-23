@@ -1,0 +1,22 @@
+[
+  {
+    "remote": "gitlab",
+    "repository": "PixelOS-Devices/android_device_xiaomi_miuicamera-toco",
+    "target_path": "device/xiaomi/miuicamera-toco",
+    "revision": "v"
+  },
+  {
+    "repository": "PixelOS-Devices/android_device_xiaomi_sm6150-common",
+    "target_path": "device/xiaomi/sm6150-common"
+  },
+  {
+    "remote": "gitlab",
+    "repository": "PixelOS-Devices/android_vendor_xiaomi_miuicamera-toco",
+    "target_path": "vendor/xiaomi/miuicamera-toco",
+    "revision": "v"
+  },
+  {
+    "repository": "MiNote10Lite/vendor_xiaomi_toco",
+    "target_path": "vendor/xiaomi/toco"
+  }
+]
