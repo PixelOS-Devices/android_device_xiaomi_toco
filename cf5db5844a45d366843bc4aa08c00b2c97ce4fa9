@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e0c65d81_efa2e4ea",
+        "filename": "extract-files.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2026-01-25T10:01:44Z",
+      "side": 1,
+      "message": "Separate change?",
+      "revId": "cf5db5844a45d366843bc4aa08c00b2c97ce4fa9",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "dc8ffd4a_9564c8b1",
+        "filename": "sort-blobs-list.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2026-01-25T10:01:44Z",
+      "side": 1,
+      "message": "You don\u0027t really need this.",
+      "revId": "cf5db5844a45d366843bc4aa08c00b2c97ce4fa9",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
