@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "59aec2fd_312528b1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2026-01-30T03:35:58Z",
+      "side": 1,
+      "message": "Whatever official MUST use dependencies from official repositories and orgs.",
+      "revId": "045a2c272a24858ba54b09e34891e81324600e12",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
