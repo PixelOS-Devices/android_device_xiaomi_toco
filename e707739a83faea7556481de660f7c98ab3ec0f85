@@ -16,6 +16,23 @@
       "message": "LGTM",
       "revId": "e707739a83faea7556481de660f7c98ab3ec0f85",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ff2f5621_984b560d",
+        "filename": "custom.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1000036
+      },
+      "writtenOn": "2026-03-16T23:21:18Z",
+      "side": 1,
+      "message": "I see no miuicamera inclusion.\nHow about move these to micam inclusion commit",
+      "revId": "e707739a83faea7556481de660f7c98ab3ec0f85",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
