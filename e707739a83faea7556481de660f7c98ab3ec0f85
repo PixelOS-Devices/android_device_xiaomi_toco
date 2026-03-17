@@ -56,6 +56,30 @@
       },
       "revId": "e707739a83faea7556481de660f7c98ab3ec0f85",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "44687675_0f24a2f7",
+        "filename": "custom.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1000018
+      },
+      "writtenOn": "2026-03-17T06:56:22Z",
+      "side": 1,
+      "message": "my bad, it was added in a later commit. \n\nhttps://review.pixelos.net/c/PixelOS-Devices/android_device_xiaomi_toco/+/7129/1",
+      "parentUuid": "a3db1a87_155a5ab2",
+      "range": {
+        "startLine": 19,
+        "startChar": 2,
+        "endLine": 20,
+        "endChar": 1
+      },
+      "revId": "e707739a83faea7556481de660f7c98ab3ec0f85",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
