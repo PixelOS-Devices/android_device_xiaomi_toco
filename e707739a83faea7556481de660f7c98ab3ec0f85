@@ -33,6 +33,29 @@
       "message": "I see no miuicamera inclusion.\nHow about move these to micam inclusion commit",
       "revId": "e707739a83faea7556481de660f7c98ab3ec0f85",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a3db1a87_155a5ab2",
+        "filename": "custom.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1000018
+      },
+      "writtenOn": "2026-03-17T04:05:37Z",
+      "side": 1,
+      "message": "```suggestion\n  },\n  {\n    \"remote\": \"gitlab\",\n    \"repository\": \"NoPrincessHere/proprietary_vendor_oneplus_dolby\",\n    \"target_path\": \"vendor/oneplus/dolby\"\n  }\n]\n```\n\nsince you are using dolby, that should be added here",
+      "range": {
+        "startLine": 19,
+        "startChar": 2,
+        "endLine": 20,
+        "endChar": 1
+      },
+      "revId": "e707739a83faea7556481de660f7c98ab3ec0f85",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
